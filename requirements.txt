@@ -1,0 +1,4 @@
+mcp
+PyPDF
+langchain-cerebras
+python-dotenv 
